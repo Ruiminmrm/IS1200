@@ -1,0 +1,53 @@
+Warning (ICM_DEPR) icmInit() has been deprecated, please use icmInitPlatform()
+
+
+OVPsim (32-Bit) v20140731.0 Open Virtual Platform simulator from www.OVPworld.org.
+Copyright (c) 2005-2014 Imperas Software Ltd.  Contains Imperas Proprietary Information.
+Licensed Software, All Rights Reserved.
+Visit www.IMPERAS.com for multicore debug, verification and analysis solutions.
+
+OVPsim started: Wed Oct  8 12:43:58 2014
+
+
+Load file: 'boot.hex', 6916 bytes
+Load file: 'uart.hex', 5352 bytes
+
+***** Start 'microAptivP' *****
+-
+Status  = 01000000
+IntCtl  = 00000020
+SRSCtl  = 1c000000
+Cause   = 00800000
+PRId    = 00019e28
+EBase   = 9d000000
+Info (MIPS32_IAS_COP0_READ) 0x9d00126c read from unsupported COP0 register 15 sel 2
+CDMMBase= 00000000
+Config  = 80000483
+Config1 = 9e000002
+Config2 = 80000000
+Config3 = 8022bc60
+Config4 = 80000000
+Config5 = 00000001
+Config7 = 80040000
+Info (MIPS32_IAS_COP0_READ) 0x9d0012ec read from unsupported COP0 register 19 sel 0
+WatchHi = 00000000
+Info (MIPS32_IAS_COP0_READ) 0x9d0012fc read from unsupported COP0 register 19 sel 1
+WatchHi1= 00000000
+Info (MIPS32_IAS_COP0_READ) 0x9d00130c read from unsupported COP0 register 19 sel 2
+WatchHi2= 00000000
+Info (MIPS32_IAS_COP0_READ) 0x9d00131c read from unsupported COP0 register 19 sel 3
+WatchHi3= 00000000
+Debug   = 02028000
+Info (MIPS32_IAS_COP0_READ) 0x9d00133c read from unsupported COP0 register 25 sel 0
+PerfCtl0= 00000000
+Info (MIPS32_IAS_COP0_READ) 0x9d00134c read from unsupported COP0 register 25 sel 2
+PerfCtl1= 00000000
+Info (MIPS32_AVP) AVP test PASS
+***** Stop *****
+
+OVPsim finished: Wed Oct  8 12:43:58 2014
+
+
+OVPsim (32-Bit) v20140731.0 Open Virtual Platform simulator from www.OVPworld.org.
+Visit www.IMPERAS.com for multicore debug, verification and analysis solutions.
+
